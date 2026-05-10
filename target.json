@@ -1,0 +1,11 @@
+{
+    "include": [
+        {
+            "keyboard": "macolis17",
+            "keymap": "vial",
+            "target": "uf2",
+            "flags": "EXTRAFLAGS=\"\"",
+            "name": "macolis17_vial"
+        }
+    ]
+}
